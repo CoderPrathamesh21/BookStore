@@ -12,6 +12,7 @@
 	<groupId>com.bookStore</groupId>
 	<artifactId>BookStore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>BookStore</name>
 	<description>Book Store Management Web Application</description>
 	
